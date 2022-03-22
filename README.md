@@ -1,11 +1,3 @@
-Audience: CS Student
-Venue: README in GitHub Pages
-Purpose: Explain how to host a resume on GitHub Pages.
-Additional purpose: Introduce and demonstrate the principles of Andrew Etter's book Modern Technical Writing
-Desired Reaction: Get their Resume on Github Pages running.
-Vocabulary: Non-technical
-Tone: Polite, Professional, Friendly
-
 # Hosting your Resume on Github Pages using Markdown format
 **Purpose**: The goal of this document is to help host a Markdown resume file on Github Pages. This guide will follow the practices decribed in Andrew Etter's book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
