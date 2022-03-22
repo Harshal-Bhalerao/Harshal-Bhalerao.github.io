@@ -11,11 +11,13 @@
 
 ---
 <div style="font-size: 18px; text-align:center; font-weight: bold;">Programming Languages</div>
-<div style="font-size: 18px;">Python, Java, JavaScript/TypeScript, HTML, CSS, C, C++, Bash</div>
+<div style="font-size: 18px; text-align:center;">Python, Java, JavaScript/TypeScript, HTML, CSS, C, C++, Bash</div>
 
-**Technologies and Frameworks**: React, Node.js, SQL, NoSQL, Git, Postman, Visual Studio, Android Studio, AWS
+<div style="font-size: 18px; text-align:center; font-weight: bold;">Technologies and Frameworks</div>
+<div style="font-size: 18px; text-align:center;">React, Node.js, SQL, NoSQL, Git, Postman, Visual Studio, Android Studio, AWS</div>
 
-**Soft Skills**: Leadership, Public Speaking, Resourcefulness, Teamwork
+<div style="font-size: 18px; text-align:center; font-weight: bold;">Soft Skills</div>
+<div style="font-size: 18px; text-align:center;">Leadership, Public Speaking, Resourcefulness, Teamwork</div>
 
 
 ---
