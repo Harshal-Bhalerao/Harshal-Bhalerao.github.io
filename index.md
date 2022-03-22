@@ -5,13 +5,12 @@
 
 
 ---
-<div style="text-align:center; font-weight: bold; font-size: 20px;"> EDUCATION </div>
-<div style="text-align:center; font-weight: bold; font-size: 18px;"> Bachelor of Science - Computer Science Major </div>
-<div style="text-align:center; font-size: 18px;"> University of Manitoba | Expected: December 2022 </div>
+<span style="text-align:left; font-weight: bold; font-size: 20px;"> EDUCATION </span><br />
+<span style="text-align:center; font-weight: bold; font-size: 18px;"> Bachelor of Science - Computer Science Major </div><br />
+<span style="text-align:center; font-size: 18px;"> University of Manitoba | Expected: December 2022 </span>
 
 
----
-<div style="font-size: 18px; text-align:center; font-weight: bold;">PROGRAMMING LANGUAGES</div>
+<span style="font-size: 18px; text-align:right; font-weight: bold;">PROGRAMMING LANGUAGES</span>
 <div style="font-size: 18px; text-align:center;">Python, Java, JavaScript/TypeScript, HTML, CSS, C, C++, Bash</div>
 
 
