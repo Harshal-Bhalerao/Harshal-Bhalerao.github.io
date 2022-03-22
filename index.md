@@ -1,6 +1,6 @@
 
 
-<div style="color: #2E8B57; font-size: 25px;">EDUCATION</div>
+<div style="color: #2E8B57; font-size: 28px;">EDUCATION</div>
 Bachelor of Science - Computer Science Major<span style="float: right;">Expected December 2022</span><br />
 University of Manitoba
 
