@@ -1,25 +1,21 @@
+## EDUCATION
+Bachelor of Science - Computer Science Major
+University of Manitoba | Expected: December 2022
 
----
-<div style="text-align:center; font-weight: bold; font-size: 20px;"> ABOUT ME </div>
-<div style="font-size: 18px;">Self-motivated and independent Software Engineer with excellent knowledge of data structures, algorithms, and software design. Proven ability to communicate strongly in a team that focuses on the impact of projects.</div>
 
-
----
-<div style="text-align:center; font-weight: bold; font-size: 20px;"> EDUCATION </div>
-<div style="text-align:center; font-weight: bold; font-size: 18px;"> Bachelor of Science - Computer Science Major </div>
-<div style="text-align:center; font-size: 18px;"> University of Manitoba | Expected: December 2022 </div>
-
----
 ## SKILLS
 
-| Languages  | Software/Frameworks | Operating Systems |
+| Languages  | Software/Frameworks | Soft Skills       |
 |:-----------|:--------------------|:------------------|
-| Python     | Vue.js & Vuetify    | Windows           |
-| JavaScript | BrowserStack        | Linux             |
-| C/C++      | Unity               |                   |
-| C#         | Godot               |                   |
+| Python     | React               | Leadership        |
+| JavaScript | Node.js             | Public Speaking   |
+| C/C++      | SQL                 | Resourcefulness   |
+| Typescript | NoSQL               | Teamwork          |
 | MySQL      | Visual Studio Code  |                   |
-| Rust       | GitHub              |                   |
+| HTML       | GitHub              |                   |
+| CSS        | Postman             |                   |
+| Bash       | Android Studio      |                   |
+| Java       |                     |                   |
 
 
 ---
