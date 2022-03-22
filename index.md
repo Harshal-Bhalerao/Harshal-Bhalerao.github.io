@@ -14,18 +14,21 @@
 <div style="font-size: 18px; text-align:center; font-weight: bold;">PROGRAMMING LANGUAGES</div>
 <div style="font-size: 18px; text-align:center;">Python, Java, JavaScript/TypeScript, HTML, CSS, C, C++, Bash</div>
 
-<br />
+
+---
 <div style="font-size: 18px; text-align:center; font-weight: bold;">TECHNOLOGIES AND FRAMEWORKS</div>
 <div style="font-size: 18px; text-align:center;">React, Node.js, SQL, NoSQL, Git, Postman, Visual Studio, Android Studio, AWS</div>
 
-<br />
+
+---
 <div style="font-size: 18px; text-align:center; font-weight: bold;">SOFT SKILLS</div>
 <div style="font-size: 18px; text-align:center;">Leadership, Public Speaking, Resourcefulness, Teamwork</div>
 
 
 ---
 
-<div style="font-size: 18px; text-align:center; font-weight: bold;">SOFT SKILLS</div>
+<div style="font-size: 18px; text-align:center; font-weight: bold;">INDUSTRY EXPERIENCE</div>
+
 -  Approached software development projects in a team utilizing agile and interactive development team to respond to change  
 -  Utilized data structure to keep data in memory for the purpose of data being queued, fetched, and updated in a fast manner for suite application needs  
 -  Tested and fixed software for bugs resulting in documenting processes to increase efficiency by 18% 
