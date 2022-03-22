@@ -10,13 +10,16 @@
 
 
 ---
-<div style="font-size: 18px; text-align:center; font-weight: bold;">Programming Languages</div>
+<div style="font-size: 18px; text-align:center; font-weight: bold;">PROGRAMMING LANGUAGES</div>
 <div style="font-size: 18px; text-align:center;">Python, Java, JavaScript/TypeScript, HTML, CSS, C, C++, Bash</div>
 
-<div style="font-size: 18px; text-align:center; font-weight: bold;">Technologies and Frameworks</div>
+
+<div style="font-size: 18px; text-align:center; font-weight: bold;">TECHNOLOGIES AND FRAMEWORKS</div>
 <div style="font-size: 18px; text-align:center;">React, Node.js, SQL, NoSQL, Git, Postman, Visual Studio, Android Studio, AWS</div>
 
-<div style="font-size: 18px; text-align:center; font-weight: bold;">Soft Skills</div>
+
+---
+<div style="font-size: 18px; text-align:center; font-weight: bold;">SOFT SKILLS</div>
 <div style="font-size: 18px; text-align:center;">Leadership, Public Speaking, Resourcefulness, Teamwork</div>
 
 
