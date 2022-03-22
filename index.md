@@ -1,4 +1,8 @@
-<div style="text-align:center; font-weight: bold; font-size: 14;"> Education </div>
+<div style="text-align:center; font-weight: bold; font-size: 14px;"> EDUCATION </div>
+<div style="text-align:center; font-weight: bold; font-size: 12px;"> Bachelor of Science - Computer Science Major </div>
+<div style="text-align:center; font-weight: bold; font-size: 12px;"> University of Manitoba | Expected: December 2022 </div>
+
+
 
 
 ---
