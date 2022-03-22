@@ -10,7 +10,8 @@
 
 
 ---
-**Programming Languages**: Python, Java, JavaScript/TypeScript, HTML, CSS, C, C++, Bash
+<div style="font-size: 18px; text-align:center; font-weight: bold;">Programming Languages</div>
+<div style="font-size: 18px;">Python, Java, JavaScript/TypeScript, HTML, CSS, C, C++, Bash</div>
 
 **Technologies and Frameworks**: React, Node.js, SQL, NoSQL, Git, Postman, Visual Studio, Android Studio, AWS
 
