@@ -21,8 +21,17 @@ University of Manitoba
 
 
 ## Industry Experience 
-**DevOps Engineer**, Nutrien | Internship
-Jan 
+**DevOps Engineer**, Nutrien (Internship)
+<span style="float: right;">Jan 2022-Present</span>
+
+-  Approached software development projects in a team utilizing agile and interactive development team to respond to change  
+-  Utilized data structure to keep data in memory for the purpose of data being queued, fetched, and updated in a fast manner for suite application needs  
+-  Tested and fixed software for bugs resulting in documenting processes to increase efficiency by 18% 
+
+
+## Projects 
+**BookStore App**, COMP3350 Software Engineering
+<span style="float: right;">Jan 2021- Apr 2021</span>
 
 -  Approached software development projects in a team utilizing agile and interactive development team to respond to change  
 -  Utilized data structure to keep data in memory for the purpose of data being queued, fetched, and updated in a fast manner for suite application needs  
