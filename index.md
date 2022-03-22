@@ -1,8 +1,8 @@
 
 ## EDUCATION
-Bachelor of Science - Computer Science Major
+Bachelor of Science - Computer Science Major<span style="float: right;">Expected December 2022</span>
 
-University of Manitoba | Expected: December 2022
+University of Manitoba
 
 
 ## SKILLS
