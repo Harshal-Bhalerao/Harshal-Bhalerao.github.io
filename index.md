@@ -1,4 +1,4 @@
-<div style="text-align: right"> your-text-here </div>
+<div style="text-align:center; font-weight: bold; font-size: 14;"> Education </div>
 
 
 ---
