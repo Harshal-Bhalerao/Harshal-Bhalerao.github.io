@@ -10,6 +10,8 @@
 <div style="text-align:center; font-size: 18px;"> University of Manitoba | Expected: December 2022 </div>
 
 ---
+## SKILLS
+
 | Languages  | Software/Frameworks | Operating Systems |
 |:-----------|:--------------------|:------------------|
 | Python     | Vue.js & Vuetify    | Windows           |
