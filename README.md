@@ -8,7 +8,7 @@ Refer to [*More Resource*](COMPLETE THIS!!!) section for more resources on Markd
 ## Instructions
 Follow the instructions listed below in order to host your resume on Github Pages following practices mentioned in Etter's book *Moden Technical Writing*.
 
-1. If you are new to Github, then [**Sign up for Github**](https://github.com/)
+1. If you are new to Github, then [**Sign up for Github**](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 2. Create a repository
     - On the top right of your Github, you will find your icon. Beside that icon you will find a `+`, click that and select `New Repository`
 3. 
