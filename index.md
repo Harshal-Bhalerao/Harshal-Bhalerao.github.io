@@ -8,8 +8,22 @@
 ---
 <div style="font-size: 18px;">Self-motivated and independent Software Engineer with excellent knowledge of data structures, algorithms, and software design. Proven ability to communicate strongly in a team that focuses on the impact of projects.</div>
 
-**Programming Languages**: Java, C++, Assembly, Fortran, Protel, Visual Basic
-**Operating Systems**: UNIX, DOS, VAX/VMS, Linux, Windows
+
+---
+
+<div style="white-space: nowrap; text-align:left">**Programming Languages**
+<ul>Python</ul>
+<ul>Java</ul>
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- C
+- C++
+- Bash
+</div>
+
+<div style="white-space: nowrap; text-align:right;">**Operating Systems**: UNIX, DOS, VAX/VMS, Linux, Windows</div>
 
 <br />
 
