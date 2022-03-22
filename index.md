@@ -27,7 +27,8 @@
 
 ---
 
-<div style="font-size: 18px; text-align:center; font-weight: bold;">INDUSTRY EXPERIENCE</div>
+<div style="font-size: 20px; text-align:center; font-weight: bold;">INDUSTRY EXPERIENCE</div>
+<div style="font-size: 18px; text-align:left; font-weight: bold;">DevOps Engineer</div><div style="font-size: 18px; text-align:left;">Nutrien</div>
 
 -  Approached software development projects in a team utilizing agile and interactive development team to respond to change  
 -  Utilized data structure to keep data in memory for the purpose of data being queued, fetched, and updated in a fast manner for suite application needs  
