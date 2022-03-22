@@ -10,20 +10,14 @@
 
 
 ---
+**Programming Languages**: Python, Java, JavaScript/TypeScript, HTML, CSS, C, C++, Bash
 
-<div style="white-space: nowrap; text-align:left">**Programming Languages**
-<ul>Python</ul>
-<ul>Java</ul>
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- C
-- C++
-- Bash
-</div>
+**Technologies and Frameworks**: React, Node.js, SQL, NoSQL, Git, Postman, Visual Studio, Android Studio, AWS
 
-<div style="white-space: nowrap; text-align:right;">**Operating Systems**: UNIX, DOS, VAX/VMS, Linux, Windows</div>
+**Soft Skills**: Leadership, Public Speaking, Resourcefulness, Teamwork
+
+
+---
 
 <br />
 
