@@ -1,10 +1,11 @@
----
 <div style="font-size: 18px;">Self-motivated and independent Software Engineer with excellent knowledge of data structures, algorithms, and software design. Proven ability to communicate strongly in a team that focuses on the impact of projects.</div>
 ---
 <div style="text-align:center; font-weight: bold; font-size: 20px;"> EDUCATION </div>
 <div style="text-align:center; font-weight: bold; font-size: 18px;"> Bachelor of Science - Computer Science Major </div>
 <div style="text-align:center; font-size: 18px;"> University of Manitoba | Expected: December 2022 </div>
 
+
+---
 
 
 **Programming Languages**: Java, C++, Assembly, Fortran, Protel, Visual Basic
