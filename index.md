@@ -10,6 +10,18 @@
 <div style="text-align:center; font-size: 18px;"> University of Manitoba | Expected: December 2022 </div>
 
 ---
+| Languages  | Software/Frameworks | Operating Systems |
+|:-----------|:--------------------|:------------------|
+| Python     | Vue.js & Vuetify    | Windows           |
+| JavaScript | BrowserStack        | Linux             |
+| C/C++      | Unity               |                   |
+| C#         | Godot               |                   |
+| MySQL      | Visual Studio Code  |                   |
+| Rust       | GitHub              |                   |
+
+
+---
+
 <div style="font-size: 20px; text-align:center; font-weight: bold;">SKILLS</div>
 <div style="font-size: 18px; text-align:left; font-weight: bold;">PROGRAMMING LANGUAGES</div>
 <div style="font-size: 18px; text-align:left;">Python, Java, JavaScript/TypeScript, HTML, CSS, C, C++, Bash</div>
