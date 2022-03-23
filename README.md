@@ -31,3 +31,29 @@ Follow the instructions listed below in order to host your resume on Github Page
     - After selecting your theme, you will find a link in a green or blue box. That's the link to your website. 
     - Or else, you could use this `https://<Your Username>.github.io/` to view your resume hosted on Github Pages.
     > From one of the points mentioned above, the portability aspect of a static website makes it stand above PDFs. It is easy to remember the link mentioned above and we can access this website from anywhere in the world. Unlike PDFs where you would send them to others and others would have to download it. Such PDFs could hold security threat and static websites mitigate those.
+### More Resources
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- [How to write better resume](https://www.jobbank.gc.ca/findajob/resources/write-good-resume)
+
+
+## Authors and Acknowledgements
+Thanks to Ben Balter and the rest of the team for Cayman Theme.
+
+Editors:
+- Azizul Hakim
+- Deepta Mandal
+- Joshua Smallwood
+
+## FAQs
+### Why use Markdown or other lightweight markup options?
+In *Modern Technical Writing*, **Andrew Etter** has mentioned the following key points 
+- Markdown is stored in pure text format
+- It is simple to understand and it is used professionally by most for documentations. Thus, it has great documentations online and good community which can help solve any issues.
+- Works well with other Version Control options
+- Can be written in any text editor or even GitHub. 
+
+### How to make title from `_config.yml` file to show up as heading on your `index.md`?
+Adding a `<div>` tag in the beginning of your index.md works. For example, I used the code snippet shown below as my beginning line and continued in Markdown. This might not be applicable to you, but this is one of the ways to solve your issue.
+        
+        <div style="color: #2E8B57; font-size: 27px;">EDUCATION</div>
