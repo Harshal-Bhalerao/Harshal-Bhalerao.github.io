@@ -6,10 +6,10 @@ It is best recommended to be familiar to Markdown to follow this document proper
 Refer to [*More Resource*](https://github.com/Harshal-Bhalerao/Harshal-Bhalerao.github.io#more-resources) section for resources on Markdown and Resume writing.
 
 ## Instructions
-Follow the instructions listed below in order to host your resume on Github Pages following practices mentioned in Etter's book *Modern Technical Writing*.
+Follow the instructions listed below in order to host your resume on Github Pages following practices mentioned in **Etter's** book *Modern Technical Writing*.
 
 1. If you are new to Github, then [**Sign up for Github**](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
-    > Etter has an irrational bias towards Static Site Generators. He loves their simplicity, speed, portability and security. They could be hosted anywhere without any issues.
+    > **Etter** has an irrational bias towards Static Site Generators. He loves their simplicity, speed, portability and security. They could be hosted anywhere without any issues.
 2. Create a repository
     - On the top right of the Github Website, you will find a `+` icon as shown in the image below. Click that and select `New Repository`.
       
