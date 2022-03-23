@@ -1,4 +1,4 @@
-# Hosting your Resume on Github Pages using Markdown format
+# Hosting your Resume on Github Pages
 **Purpose**: The goal of this document is to help host a Markdown resume on Github Pages. This guide will follow the practices decribed in Andrew Etter's book [*Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 ## Prerequisites
