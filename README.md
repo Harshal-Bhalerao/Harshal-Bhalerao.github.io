@@ -3,7 +3,7 @@
 
 ## Prerequisites
 It is best recommended to be familiar to Markdown to follow this document properly. Also, make sure you have a resume which is tailored to the position you are applying for.
-Refer to [*More Resource*](https://github.com/Harshal-Bhalerao/Harshal-Bhalerao.github.io#more-resources) section for more resources on Markdown and Resume writing.
+Refer to [*More Resource*](https://github.com/Harshal-Bhalerao/Harshal-Bhalerao.github.io#more-resources) section for resources on Markdown and Resume writing.
 
 ## Instructions
 Follow the instructions listed below in order to host your resume on Github Pages following practices mentioned in Etter's book *Moden Technical Writing*.
