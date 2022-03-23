@@ -54,6 +54,6 @@ In *Modern Technical Writing*, **Andrew Etter** has mentioned the following key 
 - Can be written in any text editor or even GitHub. 
 
 ### How to make title from `_config.yml` file to show up as heading on your `index.md`?
-Adding a `<div>` tag in the beginning of your index.md works. For example, I used the code snippet shown below as my beginning line and continued in Markdown. This might not be applicable to you, but this is one of the ways to solve your issue.
+Add a `<div>` tag in the beginning of your `index.md`. For example, I used the code snippet shown below as my beginning line and continued in Markdown. This might not be applicable to you, but this is one of the ways to solve your issue.
         
         <div style="color: #2E8B57; font-size: 27px;">EDUCATION</div>
