@@ -42,7 +42,7 @@ Follow the instructions listed below in order to host your resume on Github Page
 
 
 ## Authors and Acknowledgements
-Thanks to Ben Balter and the rest of the team for Cayman Theme.
+Thanks to Ben Balter and the rest of the team for [Cayman Theme](https://github.com/pages-themes/cayman).
 
 Editors:
 - Azizul Hakim
