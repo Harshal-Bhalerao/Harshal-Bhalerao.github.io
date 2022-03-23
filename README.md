@@ -12,6 +12,7 @@ Follow the instructions listed below in order to host your resume on Github Page
     > Etter has an irrational bias towards Static Site Generators. He loves their simplicity, speed, portability and security. They could be hosted anywhere without any issues.
 2. Create a repository
     - On the top right of the Github Website, you will find a `+` icon as shown in the image below. Click that and select `New Repository`.
+      
       <img width="343" alt="Capture1" src="https://user-images.githubusercontent.com/102128579/159593482-38d966d0-ed9b-4252-9097-e119ea0968f0.PNG">
     - To use Github Pages, type `<Your Username>.github.io` and create your repository.
     > **Andrew Etter** in his book *Modern Technical Writing* encourages to store all the documentations in the same repository as its corresponding products. Although, Andrew here is talking about having documentations and code in the same repository. He mentions that having a single repo storing all the documents is more likely to be accessed, removes the chances of documents getting lost and it's portable as everything is up on the internet.
