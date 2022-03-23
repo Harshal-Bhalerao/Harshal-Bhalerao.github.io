@@ -31,6 +31,7 @@ Follow the instructions listed below in order to host your resume on Github Page
     - After selecting your theme, you will find a link in a green or blue box. That's the link to your website. 
     - Or else, you could use this `https://<Your Username>.github.io/` to view your resume hosted on Github Pages.
     > From one of the points mentioned above, the portability aspect of a static website makes it stand above PDFs. It is easy to remember the link mentioned above and we can access this website from anywhere in the world. Unlike PDFs where you would send them to others and others would have to download it. Such PDFs could hold security threat and static websites mitigate those.
+
     ![Animation2](https://user-images.githubusercontent.com/102128579/159615790-b382697b-6960-4b6a-924b-386c20345d3f.gif)
 
 ### More Resources
