@@ -46,14 +46,14 @@ Editors:
 - Joshua Smallwood
 
 ## FAQs
-#### Why use Markdown or other lightweight markup options?
+### Why use Markdown or other lightweight markup options?
 In *Modern Technical Writing*, **Andrew Etter** has mentioned the following key points 
 - Markdown is stored in pure text format
 - It is simple to understand and it is used professionally by most for documentations. Thus, it has great documentations online and good community which can help solve any issues.
 - Works well with other Version Control options
 - Can be written in any text editor or even GitHub. 
 
-#### How to make title from `_config.yml` file to show up as heading on your `index.md`?
+### How to make title from `_config.yml` file to show up as heading on your `index.md`?
 Adding a `<div>` tag in the beginning of your index.md works. For example, I used the code snippet shown below as my beginning line and continued in Markdown. This might not be applicable to you, but this is one of the ways to solve your issue.
         
         <div style="color: #2E8B57; font-size: 27px;">EDUCATION</div>
