@@ -6,39 +6,39 @@ It is best recommended to be familiar to Markdown to follow this document proper
 Refer to [*More Resource*](https://github.com/Harshal-Bhalerao/Harshal-Bhalerao.github.io#more-resources) section for resources on Markdown and Resume writing.
 
 ## Instructions
-Follow the instructions listed below in order to host your resume on Github Pages following practices mentioned in Etter's book *Moden Technical Writing*.
+Follow the instructions listed below in order to host your resume on Github Pages following practices mentioned in Etter's book *Modern Technical Writing*.
 
-1. If you are new to Github, then [**Sign up for Github**](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+1. If you are new to Github, then [**Sign up for Github**](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
     > Etter has an irrational bias towards Static Site Generators. He loves their simplicity, speed, portability and security. They could be hosted anywhere without any issues.
 2. Create a repository
     - On the top right of the Github Website, you will find a `+` icon as shown in the image below. Click that and select `New Repository`.
       
       <img width="343" alt="Capture1" src="https://user-images.githubusercontent.com/102128579/159593482-38d966d0-ed9b-4252-9097-e119ea0968f0.PNG">
     - To use Github Pages, type `<Your Username>.github.io` and create your repository.
-    > **Andrew Etter** in his book *Modern Technical Writing* encourages to store all the documentations in the same repository as its corresponding products. Although, Andrew here is talking about having documentations and code in the same repository. He mentions that having a single repo storing all the documents is more likely to be accessed, removes the chances of documents getting lost and it's portable as everything is up on the internet.
-3. Now, you can add your upload your resume in Markdown. In order to do that:
+    > **Andrew Etter** in his book *Modern Technical Writing* encourages to store all the documentations in the same repository as its corresponding products. Although, Andrew here is talking about having documentations and code in the same repository. He mentions that having a single repo to store all the documents is more likely to be accessed, documents don't get lost as everything is in one place and it's portable as everything is up on the internet.
+3. Now, you can upload your resume in Markdown. In order to do that:
     - Click `Add File` at the top of the file section.
-    - If you already have an resume, you can just upload it. Or else, you can just begin from scratch by clicking create new file.
+    - If you already have a resume, you can just upload it. Or else, you can just begin from scratch by clicking `Create new file`.
     - Make sure the name of your resume file is `index.md`. This is the file name that Github searches for, in order to render it on Github Pages.
-    > In *Modern Technical Writing*, **Andrew Etter** mentions how easy it is to make changes on a static website. As time passes, even the best of softwares get out of date. Hence, to easily update any information, it is better to host your resume on a website.
+    > In *Modern Technical Writing*, **Andrew Etter** mentions how easy it is to make changes on a static website. As time passes, even the best of software get out of date. Hence, to easily update any information, it is better to host your resume on a static website.
 4. Choosing a Jekyll theme:
     - Click the `Settings` tab along the top.
     - Click the `Pages` tab along the side.
-    - Under `Theme Choose`, select `Change theme`.
+    - Under `Theme Chooser`, select `Change theme`.
     - Select the theme you like and click `Select theme`
       ![Animation](https://user-images.githubusercontent.com/102128579/159598822-cf1463bf-b168-46a0-b0a3-fed2a336247e.gif)
-    > **Etter** mentions how to spend time effectively. He says how important it is to spend 90% of your time learning and the remaining 10% writing. Although, Etter emphasized on writing, it is important to get enough time to do so. Customising PDFs is not possible, we have to use other softwares like Word. Here, we have in-built themes which can help customize ones resume. Also, if your time is well spent on learning some CSS, then you can end up making a beautiful looking resume of your liking. This also shows how powerful static websites are, it is easier to customise and update information.
+    > **Etter** mentions how to spend time effectively. He says how important it is to spend 90% of your time learning and the remaining 10% writing. Although, Etter emphasized on writing, it is important to get enough time to do so. Customising PDFs is not possible, we have to use other softwares like Word and then, export to PDF. Here, we have in-built themes which can help customize ones resume. Also, if your time is well spent on learning some CSS, then you can end up making a beautiful looking resume of your liking. This also shows how powerful static websites are as it is easier to customise and update information.
 5. View your website
     - After selecting your theme, you will find a link in a green or blue box. That's the link to your website. 
     - Or else, you could use this `https://<Your Username>.github.io/` to view your resume hosted on Github Pages.
-    > From one of the points mentioned above, the portability aspect of a static website makes it stand above PDFs. It is easy to remember the link mentioned above and we can access this website from anywhere in the world. Unlike PDFs where you would send them to others and others would have to download it. Such PDFs could hold security threat and static websites mitigate those.
+    > From one of the points mentioned above, the portability aspect of a static website makes it stand above PDFs. It is easy to remember the link mentioned above and we can access this website from anywhere in the world. Unlike PDFs, where you would send them to others and others would have to download it. Such PDFs could hold a security threat and static websites mitigate these threats.
 
     ![Animation2](https://user-images.githubusercontent.com/102128579/159615790-b382697b-6960-4b6a-924b-386c20345d3f.gif)
 
 ### More Resources
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
-- [Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-- [How to write better resume](https://www.jobbank.gc.ca/findajob/resources/write-good-resume)
+- [**Andrew Etter's** book *Modern Technical Writing*](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- [How to write a good resume](https://www.jobbank.gc.ca/findajob/resources/write-good-resume)
 
 
 ## Authors and Acknowledgements
