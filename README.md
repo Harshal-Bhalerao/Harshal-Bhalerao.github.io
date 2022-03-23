@@ -22,5 +22,4 @@ Follow the instructions listed below in order to host your resume on Github Page
     - Click the `Pages` tab along the side.
     - Under `Theme Choose`, select `Change theme`.
     - Select the theme you like and click `Select theme`
-
-
+      ![Animation](https://user-images.githubusercontent.com/102128579/159598822-cf1463bf-b168-46a0-b0a3-fed2a336247e.gif)
