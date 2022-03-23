@@ -52,9 +52,9 @@ Editors:
 ## FAQs
 ### Why use Markdown or other lightweight markup options?
 In *Modern Technical Writing*, **Andrew Etter** has mentioned the following key points 
-- Markdown is stored in pure text format
-- It is simple to understand and it is used professionally by most for documentations. Thus, it has great documentations online and good community which can help solve any issues.
-- Works well with other Version Control options
+- Markdown is stored in pure text format.
+- It is simple to understand and it is used professionally by most for documentations. Thus, it has great documentations online and good community which can help solve any issue.
+- Works well with other Version Control options.
 - Can be written in any text editor or even GitHub. 
 
 ### How to make title from `_config.yml` file to show up as heading on your `index.md`?
